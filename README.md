@@ -1,4 +1,4 @@
-# webcrawling
+# Web Crawler
 A simple crawling for Wikipedia.
 
 This software extracts the following information from the term “Universidad Carlos III de Madrid” in Wikipedia:
